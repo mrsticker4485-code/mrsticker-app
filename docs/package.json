@@ -1,5 +1,6 @@
 {
   "name": "mrsticker-frontend",
+  "homepage": "https://mrsticker4485-code.github.io/mrsticker-app",
   "version": "1.0.0",
   "private": true,
   "type": "module",
